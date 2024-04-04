@@ -1,2 +1,2 @@
 # GitDepotGetNextLine
-Get Next Line  Project
+Parce que lire depuis un fd, c’est pas passionnant
